@@ -3,9 +3,12 @@
 # dependencies
 /node_modules
 fetchjson/node_modules
-maps/.cache
 maps/node_modules
+sort/node_modules
+
+maps/.cache
 maps/dist
+sort/build
 
 /.pnp
 .pnp.js

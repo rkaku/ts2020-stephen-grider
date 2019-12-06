@@ -5,10 +5,12 @@
 fetchjson/node_modules
 maps/node_modules
 sort/node_modules
+stats/node_modules
 
 maps/.cache
 maps/dist
 sort/build
+stats/build
 
 /.pnp
 .pnp.js
